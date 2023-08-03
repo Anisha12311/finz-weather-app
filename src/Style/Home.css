@@ -1,0 +1,106 @@
+.text{
+    margin-bottom: 30px;
+}
+.sidebar{
+    background-color: #2186f2;
+    left : 0;
+    top : 0;
+    height: 54rem;
+    position: fixed;
+    width : 20rem;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    color : #fff;
+  
+}
+
+.degree{
+  
+   margin-top: 30px;
+   text-align: center;
+}
+
+.header {
+    font-size: 55px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.sunny {
+    margin-top: 0;
+    font-size: 19px;
+    margin-left: 10px;
+}
+.Details{
+    margin : 20px 40px 20px 40px;
+}
+.Date {
+    display:  flex;
+    margin-bottom: 30px;
+
+}
+.dashboard{
+    margin-left:0;
+}
+.maincontainer{
+    margin-top : 40px
+}
+
+.userinfo{
+    display: flex;
+}
+.userdata{
+    width : 300px;
+    height : 300px;
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+    text-align: center;
+    padding-top: 30px;
+}
+.btn {
+    padding: 3px 9px;
+    width: 151px;
+    height: 39px;
+    background: #2186f2;
+    border-radius: 30px;
+    font-size: 16px;
+    color: #fff;
+    border: 0;
+    margin-top : 18px
+}
+.container-box{
+    color : white;
+    width: 309px;
+    height: 129px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 12px 23px rgba(62,73,84,.04);
+}
+
+.WeatherInfo{
+    margin-top: 30px;
+}
+.weatherheading{
+    margin: 20px 0px 5px 0px;
+    font-size: 20px;
+    color : white;
+    font-weight: 500;
+}
+.record{
+    margin-top: 0;
+    font-size: 30px;
+    font-weight: 500;
+}
+.graph{
+    width : 730px;
+    height : 300px;
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 50px;
+
+}
+.input-text{
+    display : flex;
+    justify-content: space-evenly;
+   margin : 0px 15px 0px 25px
+}
